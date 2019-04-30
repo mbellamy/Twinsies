@@ -22,6 +22,8 @@ react-native run-ios (or react-native run-android)
 
 * [React Native](https://facebook.github.io/react-native/) - The web framework used
 * [NPM](https://www.npmjs.com/) - Dependency Management
+* [Microsoft Azure Face](https://azure.microsoft.com/en-us/services/cognitive-services/face/) - API
+
 
 ## Contributing
 
